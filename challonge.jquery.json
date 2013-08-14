@@ -1,14 +1,14 @@
 {
-    "name": "Challonge",
+    "name": "challonge",
     "title": "jQuery Challonge",
     "description": "jQuery plugin for easily embedding Challonge brackets.",
     "keywords": [
         "challonge",
         "tournament",
-        "double elimination",
-        "single elimination",
+        "round-robin",
+        "single-elimination",
+        "double-elimination",
         "swiss",
-        "round robin",
         "bracket"
     ],
     "version": "0.1.0",
