@@ -11,7 +11,7 @@
         "swiss",
         "bracket"
     ],
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": {
         "name": "Challonge.com and other contributors",
         "url": "http://challonge.com"
@@ -37,7 +37,7 @@
     "bugs": "https://github.com/challonge/challonge-jquery-plugin/issues",
     "homepage": "https://github.com/challonge/challonge-jquery-plugin",
     "docs": "https://github.com/challonge/challonge-jquery-plugin",
-    "download": "http://code.jquery.com/#challonge-jquery-plugin",
+    "download": "https://github.com/challonge/challonge-jquery-plugin",
     "dependencies": {
         "jquery": ">=1.5"
     }
