@@ -1,0 +1,44 @@
+{
+    "name": "Challonge",
+    "title": "jQuery Challonge",
+    "description": "jQuery plugin for easily embedding Challonge brackets.",
+    "keywords": [
+        "challonge",
+        "tournament",
+        "double elimination",
+        "single elimination",
+        "swiss",
+        "round robin",
+        "bracket"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Challonge.com and other contributors",
+        "url": "http://challonge.com"
+    },
+    "maintainers": [
+        {
+            "name": "Adam Darrah",
+            "email": "adam@challonge.com",
+            "url": "http://twitter.com/1bertlol"
+        },
+        {
+            "name": "David Cornelius",
+            "email": "david@challonge.com",
+            "url": "http://twitter.com/davecornelius"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/challonge/challonge-jquery-plugin/issues",
+    "homepage": "https://github.com/challonge/challonge-jquery-plugin",
+    "docs": "https://github.com/challonge/challonge-jquery-plugin",
+    "download": "http://code.jquery.com/#challonge-jquery-plugin",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
