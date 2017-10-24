@@ -14,7 +14,7 @@ $.fn.challonge = (tournamentUrl, options) ->
 
     _sourceWithOptions: =>
       subdomain = if @subdomain then "#{@subdomain}." else ''
-      "http://#{subdomain}challonge.com/#{@tournamentUrl}/module?#{$.param(@options)}"
+      "//#{subdomain}challonge.com/#{@tournamentUrl}/module?#{$.param(@options)}"
 
     _$iframe: =>
       $("<iframe src='#{@_sourceWithOptions()}' width='100%' height='#{@height}' frameborder='0' scrolling='auto' allowtransparency='true' />")
