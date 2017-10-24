@@ -20,7 +20,7 @@
       Challonge.prototype._sourceWithOptions = function() {
         var subdomain;
         subdomain = this.subdomain ? "" + this.subdomain + "." : '';
-        return "http://" + subdomain + "challonge.com/" + this.tournamentUrl + "/module?" + ($.param(this.options));
+        return "//" + subdomain + "challonge.com/" + this.tournamentUrl + "/module?" + ($.param(this.options));
       };
 
       Challonge.prototype._$iframe = function() {
